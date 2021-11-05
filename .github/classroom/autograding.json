@@ -3,7 +3,7 @@
     {
       "name": "input_hello_world_1",
       "setup": "",
-      "run": "python output/input_hello_world.py",
+      "run": "python output/output_hello_world.py",
       "input": "",
       "output": "Kia ora ao!",
       "comparison": "included",
